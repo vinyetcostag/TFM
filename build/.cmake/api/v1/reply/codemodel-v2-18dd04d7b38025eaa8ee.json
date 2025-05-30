@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bc4c8a8c1a20fb11c625.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TuringPatternsMechanics",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hlConvectionDiffusion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hlConvectionDiffusion-Debug-2c3825d00a5e1a093ea9.json",
+					"name" : "hlConvectionDiffusion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hlConvectionDiffusionALE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hlConvectionDiffusionALE-Debug-b4807a46306ba2781e98.json",
+					"name" : "hlConvectionDiffusionALE",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build",
+		"source" : "/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

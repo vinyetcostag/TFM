@@ -1,0 +1,8 @@
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/hlConvectionDiffusion.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/hlConvectionDiffusionALE.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/edit_cache.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/rebuild_cache.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/list_install_components.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/install.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/install/local.dir
+/home/vinyetcosta/EMBL_tfm/turing-patterns-mechanics/build/CMakeFiles/install/strip.dir

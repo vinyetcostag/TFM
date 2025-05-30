@@ -1,0 +1,2 @@
+/home/vinyetcosta/EMBL_tfm/hl-bin/apps/bin/hlConvectionDiffusion
+/home/vinyetcosta/EMBL_tfm/hl-bin/apps/bin/hlConvectionDiffusionALE
